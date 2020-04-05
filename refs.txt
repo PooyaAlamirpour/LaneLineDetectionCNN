@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/35280479/can-i-choose-where-my-conda-environment-is-stored
+https://stackoverflow.com/questions/55554431/conda-fails-to-create-environment-from-yml

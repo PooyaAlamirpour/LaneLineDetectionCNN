@@ -1,0 +1,6 @@
+conda install -c conda-forge matplotlib
+conda install -c conda-forge opencv
+conda install -c anaconda pandas
+conda install -c anaconda scikit-learn
+conda install -c conda-forge tensorflow
+conda install -c conda-forge keras
